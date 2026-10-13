@@ -1,0 +1,23 @@
+COLLEGE HELP CHATBOT - SAMPLE CONVERSATIONS
+
+Conversation 1: Greeting and admissions
+User: Hello
+Bot: Hello! Welcome to College Help Chatbot. I can answer general questions about admissions, courses, fees, timings, exams, attendance, library, scholarships, hostel, transport, and placements. What would you like to know?
+User: How do I apply for admission?
+Bot: Admissions: Check your college's official website or contact the admission office for eligibility, application dates, required documents, and the admission form. Requirements can vary by course and academic year.
+
+Conversation 2: Fees
+User: Tell me about tuition fees
+Bot: Fees: The amount depends on your course, category, and academic year. Please check the official fee circular or contact the accounts office. Ask for the fee structure, due dates, accepted payment methods, and receipt process.
+
+Conversation 3: Library
+User: How can I borrow a book?
+Bot: Library: Visit the college library or library portal to search for books, check borrowing limits, renew loans, and confirm opening hours. Return books by the due date to avoid any applicable late fine.
+
+Conversation 4: Unknown question
+User: Can you order pizza?
+Bot: Sorry, I don't have a rule for that question yet. Try asking about admissions, courses, fees, timings, exams, attendance, library, scholarships, hostel, transport, placements, or contact details.
+
+Conversation 5: Goodbye
+User: bye
+Bot: Goodbye! Best wishes for your studies. Type 'exit' in the terminal to close the chatbot.
